@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>907213017625-8p3n5kokme2hr6bu4ljh1su6m43d88af.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.907213017625-8p3n5kokme2hr6bu4ljh1su6m43d88af</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATrABO3TeNM_hFhicp320PVxtYXCWBHCQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>907213017625</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hitek.raovat</string>
+	<key>PROJECT_ID</key>
+	<string>raovat-clone</string>
+	<key>STORAGE_BUCKET</key>
+	<string>raovat-clone.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:907213017625:ios:9d5eb20e3d471f78639088</string>
+</dict>
+</plist>
